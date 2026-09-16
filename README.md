@@ -1,6 +1,5 @@
 # URL Shortener Service
 
-<<<<<<< HEAD
 Spring Boot URL shortener using Java 21, MySQL, Redis and REST APIs.
 
 ## Quick Start
